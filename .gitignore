@@ -1,0 +1,5 @@
+# Ignore certificates
+certificates/
+
+# Ignore Node.js modules
+node_modules/

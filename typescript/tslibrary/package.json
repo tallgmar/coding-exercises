@@ -1,0 +1,12 @@
+{
+  "name": "tslibrary",
+  "version": "1.0.0",
+  "description": "A TypeScript library project",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc && node src/index.js"
+  },
+  "devDependencies": {
+    "typescript": "^4.5.5"
+  }
+}
